@@ -37,3 +37,7 @@ print ("Values outside the function: ", mylist)
 # Function definition is here
 newList = [li, mylist]
 print ("New List", newList)
+
+a=[1,2,3,4,5]
+a.remove(3)
+print(a[3])
