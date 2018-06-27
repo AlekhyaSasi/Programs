@@ -64,7 +64,8 @@ Important points while coding:
 - With HTML, you cannot change the output by adding extra spaces or extra lines in your HTML code.
 - The browser will remove any extra spaces and extra lines when the page is displayed.
 - HTML also defines special elements for defining text with a special meaning.
--
+- HTML colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
+- 
 
 How to View HTML Source?
 View HTML Source Code:
