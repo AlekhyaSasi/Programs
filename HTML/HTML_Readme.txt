@@ -28,7 +28,24 @@ HTML headings:
 - Search engines use the headings to index the structure and content of your web pages.
 - Users skim your pages by its headings. It is important to use headings to show the document structure.
 - Don't use headings to make text BIG or bold.
-- Each HTML heading has a default size. However, you can specify the size for any heading with the style attribute, using the CSS font-size property
+- Each HTML heading has a default size. However, you can specify the size for any heading with the style attribute, using the CSS font-size property.
+
+HTML Style Attribute:
+- <tagname style="property:value;"> syntax
+
+HTML Formatting:
+Formatting elements were designed to display special types of text:
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Small text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+<b> and <i> defines bold and italic text, but <strong> and <em> means that the text is "important".
 
 Important points while coding:
 - HTML elements can be nested (elements can contain elements).
@@ -46,7 +63,8 @@ Important points while coding:
 - Browsers automatically add some white space (a margin) before and after a paragraph.
 - With HTML, you cannot change the output by adding extra spaces or extra lines in your HTML code.
 - The browser will remove any extra spaces and extra lines when the page is displayed.
-- 
+- HTML also defines special elements for defining text with a special meaning.
+-
 
 How to View HTML Source?
 View HTML Source Code:
