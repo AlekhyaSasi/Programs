@@ -47,6 +47,16 @@ Formatting elements were designed to display special types of text:
 <sup> - Superscript text
 <b> and <i> defines bold and italic text, but <strong> and <em> means that the text is "important".
 
+CSS:
+- CSS stands for Cascading Style Sheets.
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
+- It can control the layout of multiple web pages all at once.
+- CSS can be added to HTML elements in 3 ways:
+    - Inline - by using the style attribute in HTML elements
+    - Internal - by using a <style> element in the <head> section
+    - External - by using an external CSS file
+- The most common way to add CSS, is to keep the styles in separate CSS files.
+
 Important points while coding:
 - HTML elements can be nested (elements can contain elements).
 - Some HTML elements will display correctly, even if you forget the end tag.
@@ -65,7 +75,7 @@ Important points while coding:
 - The browser will remove any extra spaces and extra lines when the page is displayed.
 - HTML also defines special elements for defining text with a special meaning.
 - HTML colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
-- 
+-
 
 How to View HTML Source?
 View HTML Source Code:
