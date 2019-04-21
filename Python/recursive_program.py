@@ -25,7 +25,7 @@ def factorial2(p):
     if p == 1:
         return 1
     else:
-        return (p * factorial2(p-1))
+        return (p * factorial(p-1))
 print (factorial2(5))
 #one must ensure that a recursive pgm terminates ar a finite no. of steps
 # this is achieved by decreasinf some parameters until it reaches a base case
